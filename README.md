@@ -16,6 +16,6 @@ Build Tool: Maven
 
 ## 🖼 UI Preview
 <img width="1917" height="820" alt="image" src="https://github.com/user-attachments/assets/cddf381b-f188-4efd-9c01-dced3b3a2d0e" />
-![WhatsApp Image 2025-07-21 at 02 09 54_3dd0091e](https://github.com/user-attachments/assets/e2be5ac7-4c62-47eb-bf89-a2348eae2ae5)
+![Image 2025-07-21 at 02 09 54_](https://github.com/user-attachments/assets/955b6ceb-9db0-4a06-b4eb-8b20e96be171)
 
 
